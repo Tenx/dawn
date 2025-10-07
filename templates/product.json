@@ -65,15 +65,6 @@
             "page": ""
           }
         },
-        "collapsible-row-1": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Shipping & Returns",
-            "icon": "truck",
-            "content": "",
-            "page": ""
-          }
-        },
         "collapsible-row-2": {
           "type": "collapsible_tab",
           "settings": {
@@ -88,7 +79,16 @@
           "settings": {
             "heading": "Care Instructions",
             "icon": "heart",
-            "content": "",
+            "content": "<ul><li>Hand wash gently in water below 30°C (86°F)</li><li>Use mild, non-alkaline detergent</li><li>Wash inside out, avoid pulling or stretching</li><li>Do not iron at high temperature</li></ul>",
+            "page": ""
+          }
+        },
+        "collapsible-row-1": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Shipping & Returns",
+            "icon": "truck",
+            "content": "<p>Eachpieceis handmade to order, making every piece truly one-of-a-kind. Please note that we do not accept returns or exchanges.</p>",
             "page": ""
           }
         },
@@ -109,9 +109,9 @@
         "buy_buttons",
         "description",
         "collapsible-row-0",
-        "collapsible-row-1",
         "collapsible-row-2",
         "collapsible-row-3",
+        "collapsible-row-1",
         "share"
       ],
       "settings": {
