@@ -21,7 +21,7 @@
     "spacing_grid_horizontal": 16,
     "spacing_grid_vertical": 28,
     "animations_hover_elements": "vertical-lift",
-    "buttons_border_thickness": 3,
+    "buttons_border_thickness": 2,
     "buttons_border_opacity": 100,
     "buttons_radius": 0,
     "buttons_shadow_opacity": 0,
