@@ -63,14 +63,14 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Talk about your brand",
+            "heading": "Warm Threads",
             "heading_size": "h1"
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>"
+            "text": "<p>Each sweater is handmade by skilled artisans, blending traditional knitting techniques with modern, timeless designs. We source premium, eco-friendly fibers like organic cotton and merino wool, ensuring comfort that lasts and care for the planet.​No two pieces are exactly alike: subtle variations in stitching tell the story of human craft, making every sweater a unique treasure. Whether you’re wrapping up for a cozy evening or adding a gentle layer to your everyday look, Warm Threads brings warmth, quality, and a touch of handcrafted love to your wardrobe.<br/><br/></p>"
           }
         }
       },
@@ -144,7 +144,7 @@
         "collection-1"
       ],
       "settings": {
-        "heading": "Multimedia collage",
+        "heading": "One Stitch, One Story",
         "heading_size": "h2",
         "desktop_layout": "left",
         "mobile_layout": "collage",
