@@ -15,14 +15,14 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Image banner",
-            "heading_size": "h0"
+            "heading": "Explore Handmade Fine Yarn Sweaters.",
+            "heading_size": "h1"
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text": "Handmade sweaters crafted with premium yarns, showcasing craft and artisans in small batches",
             "text_style": "body"
           }
         },
