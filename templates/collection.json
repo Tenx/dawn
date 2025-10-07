@@ -15,8 +15,8 @@
         ".collection-hero__title {text-align: center; font-weight: normal; font-size: 28px; font-family: \"Scto Grotesk A\", sans-serif;}"
       ],
       "settings": {
-        "show_collection_description": false,
-        "show_collection_image": false,
+        "show_collection_description": true,
+        "show_collection_image": true,
         "color_scheme": "scheme-1"
       }
     },
