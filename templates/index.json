@@ -116,7 +116,7 @@
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "image": "shopify://shop_images/skew_301ff380-513d-4924-b14a-426fb9b5ebc6.jpg",
-        "height": "large",
+        "height": "medium",
         "desktop_image_width": "large",
         "layout": "image_first",
         "image_behavior": "none",
