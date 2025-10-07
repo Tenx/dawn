@@ -113,9 +113,7 @@
         "text_y8Gyi7",
         "button_nGnUYY"
       ],
-      "custom_css": [
-        ".image-with-text__text {width: 70%; max-width: 400px;}"
-      ],
+      "custom_css": [],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "image": "shopify://shop_images/skew_301ff380-513d-4924-b14a-426fb9b5ebc6.jpg",
