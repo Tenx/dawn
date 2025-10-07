@@ -116,7 +116,7 @@
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "image": "shopify://shop_images/skew_301ff380-513d-4924-b14a-426fb9b5ebc6.jpg",
-        "height": "medium",
+        "height": "large",
         "desktop_image_width": "large",
         "layout": "image_first",
         "image_behavior": "none",
@@ -124,10 +124,10 @@
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "mobile_content_alignment": "left",
-        "section_color_scheme": "",
-        "color_scheme": "",
-        "padding_top": 100,
-        "padding_bottom": 100
+        "section_color_scheme": "scheme-1",
+        "color_scheme": "scheme-2",
+        "padding_top": 60,
+        "padding_bottom": 64
       }
     },
     "image_with_text_PcXWWd": {
