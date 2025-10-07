@@ -151,7 +151,7 @@
         "button_LaEjka": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
+            "button_label": "Shop Sweaters",
             "button_link": "shopify://collections/pullover",
             "button_style_secondary": false
           }
