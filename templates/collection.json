@@ -12,7 +12,7 @@
     "banner": {
       "type": "main-collection-banner",
       "custom_css": [
-        ".collection-hero__title {text-align: center; font-weight: normal; font-size: 28px; font-family: \"Scto Grotesk A\", sans-serif;}"
+        ".collection-hero__title {text-align: center; font-size: 28px; font-family: Lato,sans-serif; font-weight: 300; letter-spacing: 0em; line-height: 1.4;}"
       ],
       "settings": {
         "show_collection_description": true,
