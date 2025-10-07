@@ -71,7 +71,7 @@
         "text"
       ],
       "custom_css": [
-        ".rich-text__text {font-size: 1.2em;}"
+        ".rich-text__text {font-size: 1.1em; color: #777777;}"
       ],
       "settings": {
         "desktop_content_position": "center",
