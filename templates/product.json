@@ -80,7 +80,7 @@
           "settings": {
             "heading": "Care Instructions",
             "icon": "heart",
-            "content": "<ul><li>Hand wash gently in water below 30°C (86°F)</li><li>Use mild, non-alkaline detergent</li><li>Wash inside out, avoid pulling or stretching</li><li>Do not iron at high temperature</li></ul>",
+            "content": "<p>Hand wash gently in water below 30°C (86°F). Use mild, non-alkaline detergent. Wash inside out, avoid pulling or stretching. Do not iron at high temperature</p>",
             "page": ""
           }
         },
