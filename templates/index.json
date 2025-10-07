@@ -70,6 +70,9 @@
       "block_order": [
         "text"
       ],
+      "custom_css": [
+        ".rich-text__text {font-size: 1.2em;}"
+      ],
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
