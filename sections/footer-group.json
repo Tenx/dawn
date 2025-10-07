@@ -21,6 +21,13 @@
             "menu": "footer"
           }
         },
+        "link_list_QwPCdX": {
+          "type": "link_list",
+          "settings": {
+            "heading": "",
+            "menu": "customer-account-main-menu"
+          }
+        },
         "footer-1": {
           "type": "link_list",
           "settings": {
@@ -31,13 +38,14 @@
         "footer-2": {
           "type": "text",
           "settings": {
-            "heading": "Our mission",
-            "subtext": "<p>Share contact information, store details, and brand content with your customers.</p>"
+            "heading": "",
+            "subtext": ""
           }
         }
       },
       "block_order": [
         "footer-0",
+        "link_list_QwPCdX",
         "footer-1",
         "footer-2"
       ],
