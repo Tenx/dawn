@@ -63,7 +63,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<h3>Each sweater handmade by skilled artisans using traditional techniques and premium eco-friendly fibers. Unique pieces with subtle stitching variations.</h3>"
+            "text": "<p>Each sweater handmade by skilled artisans using traditional techniques and premium eco-friendly fibers. Unique pieces with subtle stitching variations.</p>"
           }
         }
       },
