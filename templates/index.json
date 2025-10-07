@@ -60,22 +60,14 @@
     "rich_text": {
       "type": "rich-text",
       "blocks": {
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "heading": "Warm Threads",
-            "heading_size": "h1"
-          }
-        },
         "text": {
           "type": "text",
           "settings": {
-            "text": "<h5>Each sweater handmade by skilled artisans using traditional techniques and premium eco-friendly fibers. Unique pieces with subtle stitching variations. Warm Threads for warmth, quality, and handcrafted love.</h5>"
+            "text": "<p>Each sweater handmade by skilled artisans using traditional techniques and premium eco-friendly fibers. Unique pieces with subtle stitching variations. Warm Threads for warmth, quality, and handcrafted love.</p>"
           }
         }
       },
       "block_order": [
-        "heading",
         "text"
       ],
       "settings": {
