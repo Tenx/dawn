@@ -45,11 +45,14 @@
         "text_V9WTe4",
         "buttons_nxpQdU"
       ],
-      "custom_css": [],
+      "custom_css": [
+        "/* 控制横幅图片的整体高度 */.banner {min-height: 30vh; /* 或 300px，根据你想缩小的程度 */}",
+        "/* 让图片区域不被默认比例撑高 */.banner__media {height: 30vh; object-fit: cover;}"
+      ],
       "name": "t:sections.image-banner.presets.name",
       "settings": {
         "image": "shopify://shop_images/new.png",
-        "image_overlay_opacity": 20,
+        "image_overlay_opacity": 0,
         "image_height": "small",
         "image_behavior": "none",
         "desktop_content_position": "middle-center",
