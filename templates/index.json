@@ -85,7 +85,7 @@
         "heading_93HeQh": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>Cardigan</strong>",
+            "heading": "CARDIGAN",
             "heading_size": "h1"
           }
         },
@@ -99,7 +99,7 @@
         "button_nGnUYY": {
           "type": "button",
           "settings": {
-            "button_label": "View all",
+            "button_label": "Explore Cardigans",
             "button_link": "shopify://collections/cardigan",
             "button_style_secondary": false
           }
@@ -133,7 +133,7 @@
         "heading_PethWp": {
           "type": "heading",
           "settings": {
-            "heading": "Pullover",
+            "heading": "SWEATER",
             "heading_size": "h1"
           }
         },
@@ -147,7 +147,7 @@
         "button_LaEjka": {
           "type": "button",
           "settings": {
-            "button_label": "View all",
+            "button_label": "Explore Sweaters",
             "button_link": "shopify://collections/pullover",
             "button_style_secondary": false
           }
