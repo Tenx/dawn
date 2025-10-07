@@ -12,13 +12,11 @@
     "banner": {
       "type": "main-collection-banner",
       "custom_css": [
-        ".collection-hero {position: relative;}",
-        ".collection-hero__title {position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); z-index: 10; color: white; text-align: center;}",
-        ".collection-hero__image-container {position: relative; width: 100%; z-index: 1;}"
+        ".collection-hero__title {text-align: center; font-weight: normal;}"
       ],
       "settings": {
         "show_collection_description": false,
-        "show_collection_image": true,
+        "show_collection_image": false,
         "color_scheme": "scheme-1"
       }
     },
