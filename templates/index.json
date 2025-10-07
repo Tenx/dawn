@@ -177,10 +177,13 @@
     },
     "featured_collection": {
       "type": "featured-collection",
+      "custom_css": [
+        "h2 {text-align: center; font-weight: normal;}"
+      ],
       "settings": {
         "collection": "all",
         "products_to_show": 8,
-        "title": "",
+        "title": "Hazumi Handmade",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
