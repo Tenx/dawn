@@ -27,27 +27,11 @@
             "heading": "",
             "menu": "customer-account-main-menu"
           }
-        },
-        "footer-1": {
-          "type": "link_list",
-          "settings": {
-            "heading": "",
-            "menu": ""
-          }
-        },
-        "footer-2": {
-          "type": "text",
-          "settings": {
-            "heading": "",
-            "subtext": ""
-          }
         }
       },
       "block_order": [
         "footer-0",
-        "link_list_QwPCdX",
-        "footer-1",
-        "footer-2"
+        "link_list_QwPCdX"
       ],
       "settings": {
         "color_scheme": "scheme-4",
