@@ -17,7 +17,7 @@
         "link_list_QwPCdX": {
           "type": "link_list",
           "settings": {
-            "heading": "Your Order",
+            "heading": "Hazumi Handmade",
             "menu": "customer-account-main-menu"
           }
         },
@@ -42,7 +42,7 @@
         "link_list_AVVTja"
       ],
       "settings": {
-        "color_scheme": "scheme-4",
+        "color_scheme": "scheme-3",
         "newsletter_enable": true,
         "newsletter_heading": "Subscribe to our emails",
         "enable_follow_on_shop": true,
