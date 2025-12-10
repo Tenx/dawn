@@ -17,14 +17,14 @@
         "link_list_QwPCdX": {
           "type": "link_list",
           "settings": {
-            "heading": "",
+            "heading": "Your Order",
             "menu": "customer-account-main-menu"
           }
         },
         "footer-0": {
           "type": "link_list",
           "settings": {
-            "heading": "CUSTOMER CARE",
+            "heading": "Customer Care",
             "menu": "footer"
           }
         },
