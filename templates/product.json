@@ -61,7 +61,7 @@
           "settings": {
             "heading": "Materials",
             "icon": "leather",
-            "content": "<p>Crafted from high - quality, soft yarn that ensures warmth and durability. The chunky knit construction also enhances its ability to keep you cozy.</p>",
+            "content": "<p>Made with high-quality, ultra-soft yarn for lasting warmth and durability. The chunky knit adds extra coziness and texture.</p>",
             "page": ""
           }
         },
@@ -80,7 +80,7 @@
           "settings": {
             "heading": "Care Instructions",
             "icon": "heart",
-            "content": "<p>Hand wash gently in water below 30°C (86°F). Use mild, non-alkaline detergent. Wash inside out, avoid pulling or stretching. Do not iron at high temperature</p>",
+            "content": "<p>Hand wash in water below 30°C (86°F) with a mild, non-alkaline detergent. Turn inside out before washing and avoid pulling or stretching. Do not iron on high heat.</p>",
             "page": ""
           }
         },
@@ -89,7 +89,7 @@
           "settings": {
             "heading": "Shipping & Returns",
             "icon": "truck",
-            "content": "<p>Each piece is handmade to order, making every piece truly one-of-a-kind. Please note that we do not accept returns or exchanges. For made-to-order pieces, production may take 1–2 weeks depending on current volume.</p>",
+            "content": "<p>Every sweater is handmade to order, giving you a one-of-a-kind piece crafted with care. Please note that we do not offer returns or exchanges for made-to-order items.<br/><br/>Production usually takes <strong>3-5 days</strong>, depending on current demand, and we’ll keep you updated as your piece is created and shipped.</p>",
             "page": ""
           }
         },
