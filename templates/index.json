@@ -112,7 +112,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/skew_301ff380-513d-4924-b14a-426fb9b5ebc6.jpg",
+        "image": "shopify://shop_images/main_aa8f6159-1ecf-4d5f-9acc-f0ad211eea2f.jpg",
         "height": "large",
         "desktop_image_width": "large",
         "layout": "image_first",
@@ -160,7 +160,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/detail.jpg",
+        "image": "shopify://shop_images/main_5e25814e-1421-48c8-a267-75fb4d7ed231.jpg",
         "height": "large",
         "desktop_image_width": "large",
         "layout": "text_first",
