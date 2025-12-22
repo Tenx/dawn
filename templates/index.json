@@ -57,28 +57,6 @@
         "show_text_below": false
       }
     },
-    "rich_text": {
-      "type": "rich-text",
-      "blocks": {
-        "text": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Each sweater handmade by skilled artisans using traditional techniques and premium eco-friendly fibers. Unique pieces with subtle stitching variations.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "text"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "scheme-1",
-        "full_width": true,
-        "padding_top": 32,
-        "padding_bottom": 12
-      }
-    },
     "image_with_text_HtPE9x": {
       "type": "image-with-text",
       "blocks": {
@@ -209,7 +187,6 @@
   },
   "order": [
     "image_banner",
-    "rich_text",
     "image_with_text_HtPE9x",
     "image_with_text_PcXWWd",
     "featured_collection"
