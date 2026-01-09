@@ -78,7 +78,7 @@
           "type": "button",
           "settings": {
             "button_label": "Explore Cardigans",
-            "button_link": "shopify://collections/cardigan",
+            "button_link": "shopify://collections/knit-cardigans",
             "button_style_secondary": false
           }
         }
