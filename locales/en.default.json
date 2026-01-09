@@ -540,7 +540,7 @@
     "checkout": {
       "alternative_payment_method_banner": {
         "express_checkout": "In a rush, checkout instantly here:",
-        "or": "Or continue with a credit card"
+        "or": "Or continue with a credit card here:"
       }
     }
   }
