@@ -126,7 +126,7 @@
           "type": "button",
           "settings": {
             "button_label": "Explore Sweaters",
-            "button_link": "shopify://collections/pullover",
+            "button_link": "shopify://collections/chunky-knit-sweaters",
             "button_style_secondary": false
           }
         }
